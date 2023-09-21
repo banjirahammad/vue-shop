@@ -3,7 +3,7 @@
 This is a Vue Easy shop. emplements api calling, product list show and product details show 
 
 ## Live link(url)
-- [Website](https://banjir-ahammad.com/vue/vue-shop/)
+- [Website](https://vue-shop.banjir-ahammad.com/)
 - [github repository](https://github.com/banjirahammad/vue-shop.git)
 
 ## Recommended IDE Setup
